@@ -1,5 +1,13 @@
-## Hi there 👋
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
+# Jerilyn Franz
+
+* Former Senior Site Reliability Engineer with Google, Meta, and LinkedIn
+* Decades of experience as a developer, system administrator, and SRE
+* Currently working on my [SimpleBench](https://github.com/JerilynFranz/python-simplebench) Python benchmarking framework
+* A fanatic about writing good documentation, robust code, comprehensive tests, and software that does things that people need and ***JUST WORKS***
+* A huge believer in the idea that mentoring new developers and SREs and giving them opportunties to do and learn new things is the best way to get new *senior* developers and SREs
+  
 <!--
 **JerilynFranz/jerilynfranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
